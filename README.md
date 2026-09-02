@@ -47,4 +47,4 @@ An evaluation framework for comparing LLM applications across quality, groundedn
 
 I'm always interested in discussing data, AI, cloud architecture, and how these technologies can solve real business problems.
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/tianyu-chen-427839125/)
